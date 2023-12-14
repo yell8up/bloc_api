@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 
 import './widgets/action_buttons.dart';
 import './widgets/user_list.dart';
